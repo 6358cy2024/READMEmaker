@@ -40,35 +40,35 @@ function generateMarkdown(data) {
 //the elements from the data object that the user input will be printed out on the READMEsample file.
 //[](#) will have links where you can click on these parts of the readme and it will take you to the designated section you desire.
   return `
-  ## READMEmaker Output file
+  # READMEmaker Output file
+  
   # ${data.title} ${licenseBadge}
   ${data.name}'s README
   # Table of Contents:
 
-  - [Development](#development)
   - [Description](#description) 
   - [Installation](#installation) 
-  - [Test Instructions](#test-instruction) 
-  - [Contributions](#contributions) 
+  - [Test Instructions](#testing) 
+  - [Contributions](#contributing) 
   - [License](#license) 
   - [Contact](#contact)
+
+  ## Description
+  
+  ${data.description}
 
   ## Installation
   
   ${data.install}
   
-  ## Usage
-  
-  ${data.description}
-  
-  ## How to Contribute properly on this project:
-  
-  ${data.contributions}
-  
-  ## Tests
+  ## Testing
   
   ${data.testInstructions}
 
+  ## Contributing:
+  
+  ${data.contributions}
+  
   ## License
   
   ${licenseSection}
