@@ -3,6 +3,7 @@ const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');//the writing file
 // TODO: Create an array of questions for user input
+//as well as get their contact information for other users.
 const questions = [
     {
         type: 'input',
@@ -26,7 +27,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'test-intructions',
+        name: 'testIntructions',
         message: 'How do you test this project?'
     },
     {

@@ -1,7 +1,7 @@
 
   ## READMEmaker Output file
-  # this [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  me's README
+  # ReadmeMaker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  Christian Yanez's README
   # Table of Contents:
 
   - [Development](#development)
@@ -12,10 +12,25 @@
   - [License](#license) 
   - [Contact](#contact)
 
-  ## 
-
-
-
+  ## Installation
+  
+  github, clone repo
+  
+  ## Usage
+  
+  undefined
+  
+  ## License
+  
+  Click the following link to get more information on the Licensing : https://opensource.org/licenses/MIT
+  
+  ## How to Contribute
+  
+  undefined
+  
+  ## Tests
+  
+  undefined
 
   ## License
   
@@ -23,8 +38,8 @@
 
 
   ## Contact
-  Here is my github information : this
-  Here is my repository : https://github.com/this
-  This is my email: there
+  Here is my github information : cy2020
+  Here is my repository : https://github.com/cy2020
+  This is my email: cy2019@hotmail.com
 
   
