@@ -1,7 +1,7 @@
 
   # READMEmaker Output file
-  
-  # README Maker [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+  # READMEMaker [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   Christian Yanez's README
   # Table of Contents:
 
@@ -14,11 +14,11 @@
 
   ## Description
   
-  type in terminal
+  This project takes inputs into the terminal and will be pushed to a output readme file for further use
 
   ## Installation
   
-  github
+  On my github repository for READMEMaker for public use
   
   ## Testing
   
@@ -26,11 +26,11 @@
 
   ## Contributing:
   
-  work
+  This is a solo project, but if a live server must be used, both users will need to make sure they have npm installed into their terminals. and be wary of merge conflicts
   
   ## License
   
-  Click the following link to get more information on the Licensing : https://opensource.org/licenses/MIT
+  To learn more about the licensing: https://opensource.org/licenses/MIT
 
 
   ## Contact
