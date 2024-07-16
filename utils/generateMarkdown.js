@@ -1,5 +1,4 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
 function renderLicenseBadge(license) {
   switch (license) {
     case 'MIT':
@@ -14,7 +13,6 @@ function renderLicenseBadge(license) {
 //[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 // TODO: Create a function that returns the license link
-// If there is no license, return an empty string
 function renderLicenseLink(license) {
   switch (license) {
       case 'MIT':
@@ -30,18 +28,18 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   const link = renderLicenseLink(license);
-  return `Click the following link to get more information on the Licensing : ${link}`
+  return `To learn more about the licensing: ${link}`
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   const licenseBadge = renderLicenseBadge(data.license);
-  const licenseSection = renderLicenseSection(data.license);
+  const licenseSection = renderLicenseSection(data.license);//display the license badge
 //the elements from the data object that the user input will be printed out on the READMEsample file.
 //[](#) will have links where you can click on these parts of the readme and it will take you to the designated section you desire.
   return `
   # READMEmaker Output file
-  
+
   # ${data.title} ${licenseBadge}
   ${data.name}'s README
   # Table of Contents:

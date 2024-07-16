@@ -1,31 +1,32 @@
 
-  ## READMEmaker Output file
-  # ReadmeMaker [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  # READMEmaker Output file
+  
+  # README Maker [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   Christian Yanez's README
   # Table of Contents:
 
   - [Description](#description) 
   - [Installation](#installation) 
-  - [Test Instructions](#test instructions) 
-  - [Contributions](#contributions) 
+  - [Test Instructions](#testing) 
+  - [Contributions](#contributing) 
   - [License](#license) 
   - [Contact](#contact)
 
   ## Description
   
-  When running node.js into the terminal, you will in the fields that the terminal asks of you and from there you will get a ready to go README file
+  type in terminal
 
   ## Installation
   
-  On the provided github repository, and then on your own terminal, get the node_modules folder with the use of npm init
+  github
   
-  ## Test Instructions
+  ## Testing
   
   undefined
 
-  ## How to Contribute properly on this project:
+  ## Contributing:
   
-  This project is more meant for a single person, but two people should remember to both have npm at the ready if a live server is to be used.
+  work
   
   ## License
   
