@@ -14,19 +14,19 @@
 
   ## Description
   
-  This project takes inputs into the terminal and will be pushed to a output readme file for further use
+  This project takes inputs from the terminal and will display them in a README template in the generateMarkdown file. Then a markdown file called READMEsample will have the completed file.
 
   ## Installation
   
-  On my github repository for READMEMaker for public use
+  From my github and is for public use
   
   ## Testing
   
-  undefined
+  To test this project you simply have to open the terminal and install npm, inquirer.
 
   ## Contributing:
   
-  This is a solo project, but if a live server must be used, both users will need to make sure they have npm installed into their terminals. and be wary of merge conflicts
+  This is mostly a solo project but if working with others on live server be wary of merge conflicts and be sure that all participants have npm and to gitignore the node_modules to prevent too much memory from being used when pulling.
   
   ## License
   
