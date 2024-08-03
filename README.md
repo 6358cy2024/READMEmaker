@@ -13,3 +13,7 @@ That file for this project is called READMEsample.md.
 And then from there they will be able to navigate from different parts of the readme when they click on links on the page.
 
 There will also be a link to the users github portfolio at the bottom of the page as well as their email so anyone who sees the project can contact them.
+
+Link to walkthough video:
+
+https://github.com/6358cy2024/READMEmaker
