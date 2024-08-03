@@ -16,4 +16,4 @@ There will also be a link to the users github portfolio at the bottom of the pag
 
 Link to walkthough video:
 
-https://github.com/6358cy2024/READMEmaker
+[https://github.com/6358cy2024/READMEmaker](https://drive.google.com/file/d/1-4o5RuVj9h6XyPNXEyuy1OVPIGK2e86J/view?usp=drive_link)
